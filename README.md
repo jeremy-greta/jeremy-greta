@@ -50,4 +50,5 @@ https://github-readme-stats.vercel.app/api/top-langs?username=jeremy-greta&show_
 https://github-readme-stats.vercel.app/api/pin/?username=jeremy-greta&show_icons=true&theme=algolia&repo=jeremy-greta
 " />
 </a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremy-greta&show_icons=true&theme=radical)
 
