@@ -26,13 +26,13 @@
 ### ⭐ GitHub Stats
 
 ![GitHub stats](
-https://github-readme-stats.vercel.app/api?username=AlgerJohan&show_icons=true&theme=algolia
+https://github-readme-stats.vercel.app/api?username=jeremy-greta&show_icons=true&theme=algolia
 )
 <br/>
 <br/>
 ⚡Languages currently used
 <p><img align="left" src="
-https://github-readme-stats.vercel.app/api/top-langs?username=jeremy-greta&show_icons=true&locale=fr&layout=compact&theme=algolia
+https://github-readme-stats.vercel.app/api/top-langs?username=jeremy-greta&show_icons=true&locale=en&layout=compact&theme=algolia
 " alt="jeremy-greta" /></p>
 <br/>
 <br/>
