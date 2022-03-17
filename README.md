@@ -32,8 +32,8 @@ https://github-readme-stats.vercel.app/api?username=AlgerJohan&show_icons=true&t
 <br/>
 ⚡Languages currently used
 <p><img align="left" src="
-https://github-readme-stats.vercel.app/api/top-langs?username=algerjohan&show_icons=true&locale=en&layout=compact&theme=algolia
-" alt="algerjohan" /></p>
+https://github-readme-stats.vercel.app/api/top-langs?username=jeremy-greta&show_icons=true&locale=fr&layout=compact&theme=algolia
+" alt="jeremy-greta" /></p>
 <br/>
 <br/>
 <br/>
@@ -44,11 +44,10 @@ https://github-readme-stats.vercel.app/api/top-langs?username=algerjohan&show_ic
 🔥 Recent GitHub Activity
 <br/>
 <br/>
-<a href="
-https://algerjohan.github.io/Les-Petits-Plats/
-">
+<a href="https://darons-codeurs.fr/chaletsetcaviar/">
   
-<!--   <img align="left" src="
-https://github-readme-stats.vercel.app/api/pin/?username=AlgerJohan&show_icons=true&theme=algolia&repo=Les-Petits-Plats
-" /> -->
+  <img align="left" src="
+https://github-readme-stats.vercel.app/api/pin/?username=jeremy-greta&show_icons=true&theme=algolia&repo=jeremy-greta
+" />
 </a>
+
